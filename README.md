@@ -14,7 +14,7 @@ The dashboard provides insights into sales performance across different regions,
 
 ## Key Insights
 
-- **Total Sales**: $2.30M
-- **Total Profit**: $286K
-- **Top Performing Category**: Technology
+- **Total Sales**: $719k
+- **Total Profit**: $236K
+- **Top Segment**: consumer
 - **Top Performing Region**: West
