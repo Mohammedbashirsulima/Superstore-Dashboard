@@ -1,20 +1,44 @@
-# Superstore Dashboard
+ 📊 Power BI Sales Insights Dashboard
 
-This repository contains a Power BI dashboard template for the Sample - Superstore dataset.
+ 📌 Overview
 
-## Overview
+This project demonstrates an end-to-end data analytics workflow using Power BI, transforming raw sales data into actionable business insights.
 
-The dashboard provides insights into sales performance across different regions, product categories, and customer segments. Key metrics include total sales, profit, and quantity sold.
+ 🛠️ Project Workflow
 
-## How to Use
+* Data Cleaning & Transformation:**
+  Performed using Power Query, including handling missing values, correcting data types, and removing duplicates to ensure data quality.
 
-1. Download the `.pbit` file from this repository.
-2. Open Power BI Desktop and load the template.
-3. Connect your data source if needed and refresh the data.
+* Data Modeling:
+  Built a structured data model using a **star schema**, connecting fact and dimension tables for efficient analysis.
 
-## Key Insights
+* DAX Calculations:
+  Developed key measures such as:
 
-- **Total Sales**: $719k
-- **Total Profit**: $236K
-- **Top Segment**: consumer
-- **Top Performing Region**: West
+  * Total Sales
+  * Profit Margin
+  * Sales Growth %
+
+* Dashboard Development:
+  Designed interactive and user-friendly dashboards to analyze:
+
+  * Sales trends over time
+  * Customer behavior
+  * Product performance
+
+📊 Key Insights
+
+* Identified top-performing products driving revenue
+* Analyzed customer segments and their contribution to sales
+* Highlighted trends to support data-driven decision-making
+
+🚀 Tools & Technologies
+
+* Power BI
+* Power Query
+* DAX
+* Data Modeling (Star Schema)
+
+📎 Project Output
+
+The final dashboard provides clear insights into revenue drivers, customer segmentation, and business performance, helping identify growth opportunities and areas for improvement.
