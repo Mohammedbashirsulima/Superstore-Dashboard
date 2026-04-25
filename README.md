@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI, 
 
  🛠️ Project Workflow
 
-* Data Cleaning & Transformation:**
+* Data Cleaning & Transformation:
   Performed using Power Query, including handling missing values, correcting data types, and removing duplicates to ensure data quality.
 
 * Data Modeling:
